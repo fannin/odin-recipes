@@ -1,0 +1,16 @@
+body {
+    background-color: hsl(39, 77%, 83%);
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipes-list {
+    background-color: hsl(39, 77%, 50%);
+    list-style-type: none;
+}
+
+ul {
+    font-family: "Lucida Handwriting";
+}
